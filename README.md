@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmitabhKale
+- 👋 Hi, I’m @Amitabh..
 - An Imperfect Web Developer 😉
 <!---
 AmitabhKale/AmitabhKale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
