@@ -13,34 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-.text {
-  font-weight:700;
-  font-size: 30px;
-  margin-bottom:2rem;
-}
-.role{
-  font-size:26px;
-  color: #5A96E3;
-}
-
-.intro {
-  display:flex;
-  justify-content: space-between;
-}
-
-</style>
-<div class="intro">
+<div style="display:flex">
 <div>
 <h2> Hi there 👋 </h2>
-<h3 class="text">
- I'm Amitabh
+<h3 >
+ I'm <span style="font-size:24px; font-weight:600;">Amitabh</span>
 </h3>
-<h3 class="role">
+<h4 style="color:#5A96E3; font-size:24px; font-weight:600;">
     Full Stack Web Developer
-</h3>
+</h4>
 </div>
-<img src="images/developer.gif" height="300px" width="400px" />
+
+<img src="images/developer.gif" height="60%" width="60%" />
+
 </div>
 
 <br>
