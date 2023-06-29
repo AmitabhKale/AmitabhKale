@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **AmitabhKale/AmitabhKale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+.text {
+  font-weight:700;
+  font-size: 30px;
+  margin-bottom:2rem;
+}
+.role{
+  font-size:26px;
+  color: #5A96E3;
+}
 
+.intro {
+  display:flex;
+  justify-content: space-between;
+}
 
-<h2> I'm Amitabh</h2>
-<h4 align="center">
+</style>
+<div class="intro">
+<div>
+<h2> Hi there 👋 </h2>
+<h3 class="text">
+ I'm Amitabh
+</h3>
+<h3 class="role">
     Full Stack Web Developer
-</h4>
-
+</h3>
+</div>
+<img src="images/developer.gif" height="300px" width="400px" />
+</div>
 
 <br>
 
@@ -29,11 +49,12 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a Software Developer
+I am a **Software Engineer**
 
-- Currently I am a Full Stack Web-Developer specilaizing in MERN stack.
-- I do have working experience in Nodejs (Backend environment).
-- Apart from Programming , I love playing Video Games, Driving, Playing Piano.
+- Currently I am a Full Stack **Web**-Developer specializing in **MERN** stack.
+- I enjoy learning new technologies & explore latest trends in software domain
+- I keep my hands mostly busy with keyboard (Games, Programming, Playing Piano-keyboard)
+- Apart from Programming, I love playing Video Games, Driving, Watching Anime.
 
 ---
 
@@ -45,6 +66,7 @@ I am a Software Developer
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 <br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -54,16 +76,18 @@ I am a Software Developer
 <a href="https://www.linkedin.com/in/amitabh-kale/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/amitabh-kale/">
+<a href="https://www.instagram.com/amitabh_kale/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/amitabh-kale/">
-  <img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/amitabh-kale/">
+<a href="mailto:amitabhkale@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
 
 ---
 
+## Some Quotes for you
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+---
