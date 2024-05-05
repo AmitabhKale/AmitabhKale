@@ -13,18 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:flex">
+<div style="display:flex;">
 <div>
-<h2> Hi there 👋 </h2>
-<h3 >
+<h3 align="center"> Hi there <img height="30px" width="30px" src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="👋"></h3> 
+
+<h1 align="center">
  I'm <span style="font-size:24px; font-weight:600;">Amitabh</span>
-</h3>
-<h4 style="color:#5A96E3; font-size:24px; font-weight:600;">
-    Full Stack Web Developer
-</h4>
+</h1>
+ 
+<h2 align="center">Full-Stack Web Developer.</h2>
+
 </div>
 
-<img src="images/developer.gif" height="60%" width="60%" />
+<div align="center">
+<img src="images/developer.gif" height="40%" width="40%" />
+</div>
 
 </div>
 
@@ -36,10 +39,13 @@ Here are some ideas to get you started:
 
 I am a **Software Engineer**
 
-- Currently I am a Full Stack **Web**-Developer specializing in **MERN** stack.
-- I enjoy learning new technologies & explore latest trends in software domain
-- I keep my hands mostly busy with keyboard (Games, Programming, Playing Piano-keyboard)
-- Apart from Programming, I love playing Video Games, Driving, Watching Anime.
+👉  Currently I am working as a Full Stack **Web**-Developer using **MERN** stack.
+
+👉  I enjoy learning new technologies & explore latest trends in software domain.
+
+👉  I’m currently learning Gen AI Fundamentals.
+
+👉  Apart from Programming, I love playing Video Games, Driving, Watching Anime and listening music.
 
 ---
 
